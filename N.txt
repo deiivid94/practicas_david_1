@@ -4,5 +4,7 @@ Integer n = 0;
 for (int i=0; i<100;i++){
 n++;
 }
-
+}
+private void mensaje1 (){
+System.out.println("Hola David");
 }
